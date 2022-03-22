@@ -1,0 +1,17 @@
+{
+	"extensionName": {
+		"message": "View on Same Tab"
+	},
+
+	"extensionDescription": {
+		"message": "This Firefox add-on restores 'View Image' and 'View Video' context menu for image items which replaced with 'Open Image in New Tab' and 'Open Video in New Tab' on latest release of the Mozilla Firefox."
+	},
+
+	"actionViewImage": {
+		"message": "View Image"
+	},
+
+	"actionViewVideo": {
+		"message": "View Video"
+	}
+}

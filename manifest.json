@@ -1,0 +1,30 @@
+{
+	"manifest_version": 2,
+	"author": "Cihan Uygun",
+	"homepage_url": "https://twitter.com/cihanuygun",
+	"name": "__MSG_extensionName__",
+	"version": "0.4",
+
+	"description": "__MSG_extensionDescription__",
+	
+	"background": {
+		"scripts": ["background.js"]
+	},
+	
+	"permissions": [
+		"menus",
+		"storage"
+	],
+	
+	"icons": {
+		"48": "icons/icon.svg"
+	},
+
+	"default_locale": "en",
+
+	"applications": {
+		"gecko": {
+			"id": "{72d075e5-7823-41d8-8225-9bebeb19c75f}"
+		}
+	}
+}

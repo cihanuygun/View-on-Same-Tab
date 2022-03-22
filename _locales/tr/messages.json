@@ -1,0 +1,17 @@
+{
+	"extensionName": {
+		"message": "Aynı Sekmede Görüntüle"
+	},
+
+	"extensionDescription": {
+		"message": "Bu Firefox eklentisi, Mozilla Firefox'un yeni sürümleri için görsel sağ tık menüsünde 'Resmi yeni sekmede aç' olarak değiştirilen 'Resme bak' işlevini sağ tık menüsünü geri getirir."
+	},
+
+	"actionViewImage": {
+		"message": "Resme bak"
+	},
+
+	"actionViewVideo": {
+		"message": "Videoya bak"
+	}
+}
