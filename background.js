@@ -34,7 +34,8 @@ browser.menus.onClicked.addListener(function (info, tab) {
 			});
 		} else if (shiftPressed) {
 			browser.windows.create({
-				url: [info.srcUrl]
+				url: [info.srcUrl],
+				incognito: tab.incognito
 			});
 		}
 	} else if (info.button === 1) {
