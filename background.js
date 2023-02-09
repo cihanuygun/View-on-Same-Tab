@@ -2,13 +2,13 @@
 
 browser.menus.create({
 	id: 'view-image-by-cihan',
-	title: browser.i18n.getMessage('actionViewImage'),
+	title: `${browser.i18n.getMessage('actionViewImage')} (&Z)`,
 	contexts: ['image']
 });
 
 browser.menus.create({
 	id: 'view-video-by-cihan',
-	title: browser.i18n.getMessage('actionViewVideo'),
+	title: `${browser.i18n.getMessage('actionViewVideo')} (&Z)`,
 	contexts: ['video']
 });
 
